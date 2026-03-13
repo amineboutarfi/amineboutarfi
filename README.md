@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amin Boutarfi</h1>
-<h3 align="center">Generative AI & Backend Engineer</h3>
+<h3 align="center">Senior GenAI & Backend Engineer</h3>
 <p align="center">
   <b>AI Agents • RAG Systems • Scalable AI Infrastructure</b>
 </p>
