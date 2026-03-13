@@ -20,7 +20,7 @@
       <ul>
         <li>🔭 <b>Currently:</b> Architecting AI systems at <b><a href="https://github.com/weareinto">@weareinto</a></b></li>
         <li>⚙️ <b>Building:</b> Agentic workflows, RAG pipelines, and distributed async backends.</li>
-        <li>🧠 <b>Expertise:</b> LLM Orchestration (OpenAI, LangChain), Vector Search, and K8s Scaling.</li>
+        <li>🧠 <b>Expertise:</b> LLM orchestration across multiple providers (OpenAI, Azure OpenAI, Google) using LangChain and LangGraph, Vector Search, and K8s Scaling.</li>
         <li>🌱 <b>Focus:</b> Understanding the architectural patterns and system design principles required to scale complex ecosystems.</li>
         <li>💬 <b>Ask me about:</b> Scaling FastAPI, LLM reliability, or why RAG is harder than it looks.</li>
         <li>🎯 <b>Goal:</b> Turning "AI prototypes" into scalable, resilient production systems.</li>
